@@ -1,0 +1,2 @@
+.dillers{display:flex;flex-direction:column;padding:10px;border:1px solid;margin:10px 0}.dillersHeader{display:flex;list-style:none;border-top:1px solid #000;border-bottom:1px solid #000;padding:0}.dillersHeader li{margin:5px 0;font-weight:700}.dillersContainer{display:flex;flex-direction:column;grid-gap:10px;gap:10px;padding:0}.cellContainer{list-style:none;display:flex;width:100%;padding:10px 0}.cellContainer+.cellContainer{border-top:1px solid #000}.cell{width:25%}
+/*# sourceMappingURL=main.a8721304.chunk.css.map */
